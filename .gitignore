@@ -1,0 +1,21 @@
+# macos
+.DS_Store
+
+# temp data file
+*.db
+*.h5
+*.csv
+
+# Python cache files
+__pycache__/
+
+# vscode
+.vscode/
+
+# notebook checkpoints
+.ipynb_checkpoints/
+
+# model pth
+*.pth
+checkpoints/
+pretrained_models/
