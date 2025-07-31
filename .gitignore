@@ -15,7 +15,9 @@ __pycache__/
 # notebook checkpoints
 .ipynb_checkpoints/
 
-# model pth
-*.pth
+# model pt
+*.pt
 checkpoints/
+checkpoints_attention/
+checkpoints_*
 pretrained_models/
